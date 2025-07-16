@@ -54,10 +54,7 @@ This Python script simulates a 2D random walk, where a particle moves in one of 
 
 ## Example Output
 Below is an example of the static plot for a 1000-step random walk:
-
 ![Random Walk Plot](random_walk_plot.png)
-
-*(Note: Add a screenshot of the plot by running the script and uploading the generated PNG file to the repository.)*
 
 ## Code Explanation
 - **Function**: `random_walk_2d(num_steps=1000, step_size=1.0, animate=False)`
